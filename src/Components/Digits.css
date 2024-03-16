@@ -1,0 +1,50 @@
+.a{
+    padding-left: 3px;
+}
+
+.btn{
+    margin-left: 4px;
+    margin-top: 5px;
+}
+
+.digit{
+    font-size: 25px;
+}
+
+#buttons-container{
+    margin-left: 15px;
+}
+
+#clockdigit{
+    background-color: rgb(20, 19, 19);
+    padding: 10px;
+    border-radius: 15px;
+    color: white;
+}
+
+#start{
+    background-color: rgb(42, 170, 138);
+    border: 2px solid green;
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#reset{
+    background-color: rgb(223, 255, 0);
+    border: 2px solid yellow;
+    border-radius: 10px;
+    color: black;
+    padding: 8px;
+    cursor: pointer;
+}
+
+#stop{
+    background-color: rgb(222, 49, 99);
+    border: 2px solid red;
+    border-radius: 10px;
+    color: white;
+    padding: 8px;
+    cursor: pointer;
+}
